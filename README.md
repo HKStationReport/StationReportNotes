@@ -16,6 +16,8 @@ curl -v -X POST -d "{"Station":"Tin Shui Wai","Latitude":22.4477,"Longitude":114
 sethi@jembotbrodol.com
 jembotbrodol
 
+Public Link: https://demo.thingsboard.io/dashboard/9a829f20-b3f2-11e9-ba32-f5b5eb6632aa?publicId=c0423b30-b730-11e9-ad5e-55c0cbba5705
+
 ==========Github======================
 sethi@jembotbrodol.com
 sethijembotbrodol
