@@ -1,0 +1,32 @@
+{
+    "args": {},
+    "data": {
+        "Station": "Tin Shui Wai",
+        "Latitude": 22.4477,
+        "Longitude": 114.00400000000002,
+        "Status": "Police",
+        "Comment": "TSW hi comment here"
+    },
+    "files": {},
+    "form": {},
+    "headers": {
+        "x-forwarded-proto": "https",
+        "host": "postman-echo.com",
+        "content-length": "126",
+        "accept-encoding": "gzip, deflate",
+        "content-type": "application/json",
+        "x-forwarded-port": "443"
+    },
+    "json": {
+        "Station": "Tin Shui Wai",
+        "Latitude": 22.4477,
+        "Longitude": 114.00400000000002,
+        "Status": "Police",
+        "Comment": "TSW hi comment here"
+    },
+    "url": "https://postman-echo.com/post"
+}
+
+
+//=====
+
